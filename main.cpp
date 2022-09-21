@@ -76,12 +76,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 }
 
-
-
-
-
-
-   void rec()
+void rec()
   {
       setcolor(5);
 
@@ -107,10 +102,7 @@ Code, Compile, Run and Debug online from anywhere in world.
        cout<<a[x][y];
      }
    }
-
-
-
-  }
+}
 
     int getkey()
   {
